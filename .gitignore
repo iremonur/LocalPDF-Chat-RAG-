@@ -1,0 +1,32 @@
+# virtual environments
+rag_env/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# model + cache files
+.cache/
+huggingface/
+*.bin
+*.pth
+
+# vector stores
+chroma/
+vectorstore/
+*.sqlite
+
+# logs
+*.log
+
+# uploaded docs (optional)
+*.pdf
+
+# system files
+.DS_Store
+.idea/
+.vscode/
