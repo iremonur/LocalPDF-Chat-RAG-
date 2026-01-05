@@ -1,0 +1,12 @@
+Local LLM
+RAG
+PDF Chatbot
+Offline Question Answering
+LangChain
+HuggingFace
+FAISS
+Chroma
+Gradio
+Document AI
+Vector Search
+Privacy Preserving AI
