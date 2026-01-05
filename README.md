@@ -73,16 +73,6 @@ The project is useful in environments where:
 
 ---
 
-## 📁 Project Structure
-
-.
-├── qabot.py # Main application script
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── .gitignore
-
----
-
 ## 🚀 How to Run
 
 Clone the repository:
